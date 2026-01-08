@@ -20,3 +20,4 @@ def encode_face(image):
 def match_face(stored_encoding, captured_image):
     captured_encoding = encode_face(captured_image)
     return face_recognition.compare_faces([stored_encoding], captured_encoding)[0]
+

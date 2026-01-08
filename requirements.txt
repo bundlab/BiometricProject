@@ -1,0 +1,3 @@
+opencv-python
+numpy
+# Add more packages as you implement ML / face recognition
