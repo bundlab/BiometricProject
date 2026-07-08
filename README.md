@@ -67,4 +67,29 @@ BiometricProject/
 │   ├── fingerprints/
 │   └── faces/
 │── models/
+```
+## 🤝 Contributing
+Contributions are welcome!
+
+If you would like to improve performance or add new features:
+
+- Fork this repository
+- Create a new branch
+- Commit your changes
+- Open a Pull Request
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute it for educational and research purposes.
+
+---
+
+## 👨‍💻 Author
+Developed by bundlab
+
+
+⭐ If you like this project, give it a star on GitHub!
 
